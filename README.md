@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon HTML error related to adding event listeners. The `attachEvent` method is used, which is not supported by modern browsers. The bug.html file contains the erroneous code. The bugSolution.html file contains the corrected code using the standard `addEventListener` method.
